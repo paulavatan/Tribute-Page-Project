@@ -1,0 +1,30 @@
+html{
+    background-image: url(https://i.pinimg.com/736x/f0/18/8a/f0188a4680b2ef1ef813b9602b990798.jpg);
+    background-repeat: repeat;
+    font-family: 'Syne Mono', monospace;
+    font-size: 100%;
+}
+
+
+#title{
+    text-align: center;
+    font-size: 25px;
+}
+
+#img-div{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#image{
+    height: auto;
+    max-width: 100%;
+}
+
+#img-caption{
+    text-align: center;
+}
+
+#name{
+    text-align:center;
+}
